@@ -1,0 +1,47 @@
+.c-container{
+    position: relative;
+    margin-bottom: 43px;
+    &__title{
+        margin-bottom: 35px;
+        font-weight: bold;
+    text-transform: uppercase;
+    font-size: 14px;
+    }
+}
+.c-container__banner{
+    max-width: $max-width;
+    height: 360px;
+    overflow: hidden;
+    
+}
+.c-container__banner img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.c-container__catelory {
+    position: absolute;
+    left: 40px;
+    bottom: 30px;
+}
+.c-container__catelory span{
+    background-color: $pink-color;
+}
+.c-catelory{
+    display: inline-block;
+    padding: 5px 22px;
+    font-weight: bold;
+}
+.c-container__title i{
+    line-height: 20px;
+}
+.c-container__catelory p{
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 14px;
+    line-height: 30px;
+    max-width: 435px;
+    margin-left: 2px;
+}
+
+

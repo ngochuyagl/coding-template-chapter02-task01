@@ -1,0 +1,69 @@
+.c-link1{
+
+}
+.c-link1 h4{
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bold;
+    padding-bottom: 7px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 28px;
+
+}
+.c-link1 p {
+    
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 17px;
+    font-weight: 500;
+}
+.c-link1 a{
+    color: #3b63fa;
+    text-decoration: solid;
+    text-decoration: underline;
+}
+.c-link1__list{
+    gap: 50px;
+   display: flex;
+   align-items: center;
+   margin-bottom: 27px;
+}
+.c-link1__item div {
+    width:300px;
+    height: 190px;
+    overflow: hidden;
+    margin-bottom: 11px;
+}
+
+.c-link1__item span{
+    font-size: 14px;
+    font-weight: 500;
+    padding: 6px 22px;
+    margin-bottom: 10px;
+}
+.c-link1__item p{
+    margin-top: 18px;
+}
+.c-link1__item .c-link1--green{
+    background-color: #a3d39c;
+}
+.c-link1__item .c-link1--yellow{
+    background-color: #fff799;
+}
+.c-link1__item .c-link1--pink{
+    background-color: #ffdfdf;
+}
+.c-link1__custom1{
+    margin-top: -18px;
+}
+.c-link1__custom2{
+    margin-top: 2px;
+}
+.c-link1__custom3{
+    margin-top: -19px;
+}
+.c-link1__list--custom{
+    margin-bottom: 33px;
+}
+
+
